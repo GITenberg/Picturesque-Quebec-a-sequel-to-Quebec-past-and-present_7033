@@ -1,0 +1,27 @@
+_repo: Picturesque-Quebec-a-sequel-to-Quebec-past-and-present_7033
+creator:
+  author:
+    agent_name: Le Moine, J. M. (James MacPherson), Sir
+    aliases:
+    - Le Moine, James MacPherson, Sir
+    - LeMoine, J. M. (James MacPherson), Sir
+    birthdate: 1825
+    deathdate: 1912
+    gutenberg_agent_id: '2314'
+    url: http://www.gutenberg.org/2009/agents/2314
+    wikipedia: http://en.wikipedia.org/wiki/James_MacPherson_Le_Moine
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Québec (Québec) -- Description and travel'
+- !lcsh 'Québec (Québec) -- Suburbs'
+title: 'Picturesque Quebec : a sequel to Quebec past and present'
+url: http://www.gutenberg.org/ebooks/7033
